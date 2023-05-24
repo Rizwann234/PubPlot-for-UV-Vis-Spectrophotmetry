@@ -23,3 +23,6 @@ python -m pip install -U matplotlib
 python -m pip install -U pandas 
 
 python -m pip install -U numpy 
+
+**Step 1** : Open the software with the following line - python "[filepath of the python code you have saved.]"
+         alternatively you can write "python"  then drag and drop the .py file into the command line.

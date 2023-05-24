@@ -38,6 +38,6 @@ python -m pip install -U numpy
              After loading the files, the files you have uploaded will be listed to you. 
              ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/0f01423d-9af3-4205-bb4d-1a93cb097883)
              
-            
-
-            
+**Step 4** : Now we will look into formatting axes of our plots. First define the axes paramaters of your choosing it should be in this format X_MIN X_MAX Y_MIN Y_MAX.  
+             Each number should be an integer separated by a space.
+             ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/808ab8bf-f54d-44a7-aa4d-ed11670b73c1)

@@ -51,7 +51,7 @@ For your file to be read by the software, your data must firstly be in a .csv fo
 **Step 5** : Now we will assign label names and associated colours to each spectrum. For each file, you will be asked to give a label name and colour.  
              For label colours please see the matplotlib documentation for options : https://matplotlib.org/stable/gallery/color/named_colors.html
              
-            ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/3e834dbe-3d5a-4e93-bb05-c0f4802db633)
+  ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/3e834dbe-3d5a-4e93-bb05-c0f4802db633)
 
 **Step 5** : The last step will be to save your beautiful plot.   
              To do this, you will be sequentially prompted to specify the save directory, filename and file format.  

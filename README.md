@@ -14,7 +14,7 @@ appreciated.
 
 Before using this code, it would be beneficial to have these downloaded if not already.
 
-- Python, it is often better to install directly from the python website. ** Link : ** https://www.python.org/downloads/
+- Python, it is often better to install directly from the python website. **Link :** https://www.python.org/downloads/
 - Dependencies : pandas, numpy, matplotlib
 
 If you do not have these already, copy and paste these lines into your directory.

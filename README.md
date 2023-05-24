@@ -51,8 +51,7 @@ python -m pip install -U numpy
 
 **Step 5** : The last step will be to save your beautiful plot.   
              To do this, you will be sequentially prompted to specify the save directory, filename and file format.  
-             ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/176c4acb-ff5a-406d-8ff2-3cb366aff874)
-             
+             ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/176c4acb-ff5a-406d-8ff2-3cb366aff874)  
              Following this your saved file will appear in the specified folder.
              ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/cb1e2a97-adad-420f-b3f3-2ac43060a60e)
 

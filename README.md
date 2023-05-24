@@ -27,3 +27,6 @@ python -m pip install -U numpy
 **Step 1** : Open the software with the following line - python "[filepath of the python code you have saved.]"
          alternatively you can write "python"  then drag and drop the .py file into the command line.  
          ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/df455363-3858-43dc-9552-37f7a67d0ea8)  
+         
+**Step 2** : The software is now open. Proceed to specifying the font and linewidths for your plot.
+            ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/2c95f8ba-d344-414f-aaae-3721638ed6fb)

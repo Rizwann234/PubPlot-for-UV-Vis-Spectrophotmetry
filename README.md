@@ -26,8 +26,7 @@ python -m pip install -U numpy
 
 ## Section 3 - Data pre-requisites
 
-For your file to be read by the software, your data must firstly be in a .csv format. Secondly, the data must be formatted with Wavelength in nm, in the first column and the absorbance in a.u. in the second column. See image below for reference.
-![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/0b716e5f-ca51-4f96-91fc-f2ddeaaf68fa)
+For your file to be read by the software, your data must firstly be in a .csv format. Secondly, the data must be formatted with Wavelength in nm, in the first column and the absorbance in a.u. in the second column. See image below for reference.![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/0b716e5f-ca51-4f96-91fc-f2ddeaaf68fa)
 
 
 ## Section 4 - Instructions for use

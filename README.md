@@ -33,9 +33,8 @@ python -m pip install -U numpy
             
 **Step 3** : Select the number of curves(spectra) you would like on one plot and specify the files paths for each.  
              Again you can drag your file into the command line. Make sure these are **NOT** enclosed in quotation marks.
-             
              After loading the files, the files you have uploaded will be listed to you. 
- ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/0f01423d-9af3-4205-bb4d-1a93cb097883)
+             ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/0f01423d-9af3-4205-bb4d-1a93cb097883)
              
             
 

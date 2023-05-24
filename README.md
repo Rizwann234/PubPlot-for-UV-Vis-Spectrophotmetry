@@ -46,5 +46,17 @@ python -m pip install -U numpy
              ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/808ab8bf-f54d-44a7-aa4d-ed11670b73c1)
 
 **Step 5** : Now we will assign label names and associated colours to each spectrum. For each file, you will be asked to give a label name and colour.  
-             For label colours please see the matplotlib documentation for options : https://matplotlib.org/stable/gallery/color/named_colors.html 
-             ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/808ab8bf-f54d-44a7-aa4d-ed11670b73c1)
+             For label colours please see the matplotlib documentation for options : https://matplotlib.org/stable/gallery/color/named_colors.html
+             ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/3e834dbe-3d5a-4e93-bb05-c0f4802db633)
+
+**Step 5** : The last step will be to save your beautiful plot. To do this, you will be sequentially prompted to specify the save directory, filename and file format.
+             ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/176c4acb-ff5a-406d-8ff2-3cb366aff874)
+             Following this your saved file will appear in the specified folder.
+             ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/cb1e2a97-adad-420f-b3f3-2ac43060a60e)
+
+**Step 6** : You are now left with a plot of all your spectra. Congratulations!  
+             ![Tutorial plot](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/e56098e9-a869-4d7a-b03f-29f77057aa66)
+
+             
+ 
+ 

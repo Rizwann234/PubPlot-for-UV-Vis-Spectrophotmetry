@@ -44,3 +44,7 @@ python -m pip install -U numpy
 **Step 4** : Now we will look into formatting axes of our plots. First define the axes paramaters of your choosing it should be in this format X_MIN X_MAX Y_MIN Y_MAX.  
              Each number should be an integer separated by a space.
              ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/808ab8bf-f54d-44a7-aa4d-ed11670b73c1)
+
+**Step 5** : Now we will assign label names and associated colours to each spectrum. For each file, you will be asked to give a label name and colour.  
+             For label colours please see the matplotlib documentation for options : https://matplotlib.org/stable/gallery/color/named_colors.html 
+             ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/808ab8bf-f54d-44a7-aa4d-ed11670b73c1)

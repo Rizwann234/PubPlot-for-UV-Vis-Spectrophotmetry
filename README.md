@@ -18,6 +18,6 @@ Before using this code, it would be beneficial to have these downloaded if not a
 
 If you do not have these already, copy and paste these lines into your directory.
 
-python -m pip install -U matplotlib
-python -m pip install -U pandas
-python -m pip install -U numpy
+python -m pip install -U matplotlib \n
+python -m pip install -U pandas \n
+python -m pip install -U numpy \n

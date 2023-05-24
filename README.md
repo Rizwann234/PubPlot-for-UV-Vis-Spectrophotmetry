@@ -24,7 +24,7 @@ python -m pip install -U matplotlib
 python -m pip install -U pandas  
 python -m pip install -U numpy  
 
-## Section 2 - Python pre-requisites
+## Section 3 - Data pre-requisites
 
 For your file to be read by the software, your data must firstly be in a .csv format. Secondly, the data must be formatted with Wavelength in nm, in the first column and the absorbance in a.u. in the second column. See image below for reference.
 ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/0b716e5f-ca51-4f96-91fc-f2ddeaaf68fa)
@@ -34,9 +34,8 @@ For your file to be read by the software, your data must firstly be in a .csv fo
 
 **Step 1** : Open the software with the following line - python "[filepath of the python code you have saved.]"
          alternatively you can write "python"  then drag and drop the .py file into the command line.  
-         ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/df455363-3858-43dc-9552-37f7a67d0ea8)  
-         
-           
+         ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/4e3c8bc3-409c-4e18-97cb-4b71eee3d7a8)
+
 **Step 2** : The software is now open. Proceed to specifying the font and linewidths for your plot.
             ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/2c95f8ba-d344-414f-aaae-3721638ed6fb)
             
@@ -64,5 +63,13 @@ For your file to be read by the software, your data must firstly be in a .csv fo
              ![Tutorial plot](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/e56098e9-a869-4d7a-b03f-29f77057aa66)
 
              
- 
+## Section 5 - Outlook
+
+If you ever use this software please feel free to provide me feedback. Any critique on the user experience, user autonomy and code itself would be much appreciated.
+
+In future versions of the code, you should expect the following changes :
+- Error Handling : Any misinputs will not cause the program to quit.
+- Better plots : The output is just a baseline. Upon feedback, I will hope to implement the changes required. The goal will be to effortlessly produce publication quality graphs.
+- More plot types : If this becomes a useful tool, I would be open to develop code for other types of graphs such as XRD, CV (cyclic voltammetry), etc.
+- Further plot specification : More user options on paramaeters such as dpi and figure size.
  

@@ -68,8 +68,8 @@ For your file to be read by the software, your data must firstly be in a .csv fo
 If you ever use this software please feel free to provide me feedback. Any critique on the user experience, user autonomy and code itself would be much appreciated.
 
 In future versions of the code, you should expect the following changes :
-- Error Handling : Any misinputs will not cause the program to quit.
-- Better plots : The output is just a baseline. Upon feedback, I will hope to implement the changes required. The goal will be to effortlessly produce publication quality graphs.
-- More plot types : If this becomes a useful tool, I would be open to develop code for other types of graphs such as XRD, CV (cyclic voltammetry), etc.
-- Further plot specification : More user options on paramaeters such as dpi and figure size.
+- **Error Handling** : Any misinputs will not cause the program to quit.
+- **Better plots** : The output is just a baseline. Upon feedback, I will hope to implement the changes required. The goal will be to effortlessly produce publication quality graphs.
+- **More plot types** : If this becomes a useful tool, I would be open to develop code for other types of graphs such as XRD, CV (cyclic voltammetry), etc.
+- **Further plot specification** : More user options on paramaeters such as dpi and figure size.
  

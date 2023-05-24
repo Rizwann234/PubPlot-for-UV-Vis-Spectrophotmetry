@@ -18,7 +18,7 @@ Before using this code, it would be beneficial to have these downloaded if not a
   https://www.python.org/downloads/
 - Dependencies : pandas, numpy, matplotlib
 
-If you do not have these already, copy and paste these lines into your directory.
+If you do not have these already, copy and paste these lines into your command line.
 
 python -m pip install -U matplotlib  
 python -m pip install -U pandas  

@@ -25,7 +25,7 @@ python -m pip install -U pandas
 python -m pip install -U numpy  
 
 
-## Section 3 - Instructions for use
+## Section 4 - Instructions for use
 
 **Step 1** : Open the software with the following line - python "[filepath of the python code you have saved.]"
          alternatively you can write "python"  then drag and drop the .py file into the command line.  
@@ -49,7 +49,8 @@ python -m pip install -U numpy
              For label colours please see the matplotlib documentation for options : https://matplotlib.org/stable/gallery/color/named_colors.html
              ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/3e834dbe-3d5a-4e93-bb05-c0f4802db633)
 
-**Step 5** : The last step will be to save your beautiful plot. To do this, you will be sequentially prompted to specify the save directory, filename and file format.
+**Step 5** : The last step will be to save your beautiful plot. To do this, you will be sequentially prompted to specify the save directory, filename and file format.  
+
              ![image](https://github.com/Rizwann234/PubPlot-for-UV-Vis-Spectrophotmetry/assets/95040993/176c4acb-ff5a-406d-8ff2-3cb366aff874)
              
              Following this your saved file will appear in the specified folder.
